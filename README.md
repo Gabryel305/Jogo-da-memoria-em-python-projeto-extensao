@@ -85,7 +85,7 @@ Utilizando exclusivamente bibliotecas nativas do Python (`tkinter` e `random`), 
    ```
 3. **Execute o jogo:**
    ```bash
-   python jogo-da-memoria.py
+   python3 jogo-da-memoria.py
    ```
 
 ---
