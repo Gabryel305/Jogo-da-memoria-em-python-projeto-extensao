@@ -3,7 +3,6 @@
 ![Badge Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Badge Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)
 ![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-![Badge Educação](https://img.shields.io/badge/Licenciatura_em_Informática-2026-orange?style=for-the-badge)
 
 ## Índice
 
